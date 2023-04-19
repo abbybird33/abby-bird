@@ -1,0 +1,82 @@
+
+
+body{
+    background-color:  rgb(255, 255, 255);
+font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    text-align: center;
+    padding: 10px;
+    border: 20px rgb(255, 241, 197);
+}
+
+ul{
+    font-size: 18px;
+}
+
+ol{
+    font-size: 22px;
+    
+}
+
+.firstpart{
+    font-size: 30px;
+}
+
+.topheader{
+    height: 100px;
+    background-color: rgb(198, 208, 208);
+    color: rgb(255, 255, 255);
+    line-height: 100px;
+
+}
+
+.jesuspart{
+    background-color: #e4c395;
+    right: 5px;
+    left: 5px;
+}
+
+.naturepart{
+    background-color: rgb(186, 198, 199);
+}
+
+.hunterpart{
+    background-color: blanchedalmond;
+}
+
+.youtube{
+    background-color: rgb(111, 158, 142);
+}
+
+.bulletheaders{
+    font-size: 25px;
+}
+
+.tableauPlaceholder{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.aboutme{
+    background-color:  #e4c395;
+    padding: 5px;
+    overflow: hidden;
+    float: right;
+    float: inline-start;
+
+}
+
+nav a{
+    color:  rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.bottom{
+    background-color:  #e4c395;
+    padding: 5px;
+    overflow: hidden;
+    float: inline-start;
+}
+
